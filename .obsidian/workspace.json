@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "ff36cecf93e21e59",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2053f8ff0ea56b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee16373502601734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentacion/01. Fase de diseño/01. Arquitectura y Decisiones Tecnologicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Arquitectura y Decisiones Tecnologicas"
+            }
+          },
+          {
+            "id": "adf3be260bf4c956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentacion/01. Fase de diseño/03. Filosofía de despliegue, hardware y escalabilidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03. Filosofía de despliegue, hardware y escalabilidad"
+            }
+          },
+          {
+            "id": "189cc3156440b242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentacion/01. Fase de diseño/03. Filosofía de despliegue, hardware y escalabilidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03. Filosofía de despliegue, hardware y escalabilidad"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b98483b0af41a43",
+    "type": "split",
+    "children": [
+      {
+        "id": "874ef5fb6b27e564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b87a7866f6da7f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "30279f11bf81795a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "8d48e14a4192c14c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f8522dd26460053",
+    "type": "split",
+    "children": [
+      {
+        "id": "53fe9c561d2a42f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adfdca5e6ad81745",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Documentacion/02. Evaluación de los Modelos y Pruebas de estrés.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 02. Evaluación de los Modelos y Pruebas de estrés"
+            }
+          },
+          {
+            "id": "90c0f7d159774b05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Documentacion/02. Evaluación de los Modelos y Pruebas de estrés.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 02. Evaluación de los Modelos y Pruebas de estrés"
+            }
+          },
+          {
+            "id": "605f611ce514fc5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "836bb7272a6ba6ff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "c10d6fe2c2cee3d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Documentacion/02. Evaluación de los Modelos y Pruebas de estrés.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 02. Evaluación de los Modelos y Pruebas de estrés"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "adf3be260bf4c956",
+  "lastOpenFiles": [
+    "pruebas-ia/prueba2.py",
+    "Documentacion/01. Fase de diseño/02. Evaluación de los Modelos y Pruebas de estrés.md",
+    "Documentacion/01. Fase de diseño/01. Arquitectura y Decisiones Tecnologicas.md",
+    "pruebas-ia/venv/lib/python3.12/site-packages/ollama-0.6.1.dist-info/RECORDfvs0p2p4.tmp",
+    "pruebas-ia/venv/lib/python3.12/site-packages/ollama-0.6.1.dist-info/REQUESTED",
+    "pruebas-ia/venv/lib/python3.12/site-packages/ollama-0.6.1.dist-info/INSTALLER",
+    "pruebas-ia/venv/lib/python3.12/site-packages/ollama-0.6.1.dist-info/INSTALLERkd10ogiv.tmp",
+    "pruebas-ia/venv/lib/python3.12/site-packages/ollama/__pycache__/_utils.cpython-312.pyc",
+    "pruebas-ia/venv/lib/python3.12/site-packages/ollama/__pycache__/_types.cpython-312.pyc",
+    "pruebas-ia/venv/lib/python3.12/site-packages/ollama/__pycache__/_client.cpython-312.pyc",
+    "pruebas-ia/venv/lib/python3.12/site-packages/ollama/__pycache__/__init__.cpython-312.pyc",
+    "pruebas-ia/venv/lib/python3.12/site-packages/ollama/__pycache__",
+    "pruebas-ia/venv/lib/python3.12/site-packages/ollama-0.6.1.dist-info/licenses/LICENSE",
+    "pruebas-ia/venv/lib/python3.12/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md",
+    "pruebas-ia/venv/lib/python3.12/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md",
+    "pruebas-ia/venv/lib/python3.12/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
+    "Documentacion/01. Fase de diseño/03. Filosofía de despliegue, hardware y escalabilidad.md",
+    "pruebas-ia/Resultado de las pruebas de estrés de las disintas ias.md"
+  ]
+}
