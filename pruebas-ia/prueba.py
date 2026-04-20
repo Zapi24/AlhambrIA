@@ -13,7 +13,6 @@ print("--AQUI INICIA LA PRUEBA CON QWEN-2.5--")
 # Hay dos tipos de llamadas
 
 # 1º Una llamada clásica, espera unos segundos y el usuario recibe una respuesta completa
-
 print("1º Prueba, te responde completamente una vez se recibe la respuesta completa: ")
 
 respuesta = ollama.chat(model=MODELO, messages=[
@@ -54,7 +53,7 @@ print("Imprimiento respuesta......", end='', flush=True)
 
 # Iteramos sobre los pedazos (chunks) que nos va enviando el modelo y los vamos mostrando
 for chunk in respuesta2:
-    
+
     print(chunk['message']['content'], end='', flush=True)
 
 print('\n')
