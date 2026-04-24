@@ -4,5 +4,6 @@ __pycache__/
 
 db.sqlite3
 .env
+pruebas-ia/venv
 media/
 secret_key.txt
