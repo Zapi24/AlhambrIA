@@ -214,6 +214,9 @@
   },
   "active": "adf3be260bf4c956",
   "lastOpenFiles": [
+    "Documentacion/01. Fase de diseño/02. Evaluación de los Modelos y Pruebas de estrés.md",
+    "Documentacion/01. Fase de diseño/03. Filosofía de despliegue, hardware y escalabilidad.md",
+    "Documentacion/01. Fase de diseño/01. Arquitectura y Decisiones Tecnologicas.md",
     "alhambria/templates",
     "alhambria/media",
     "alhambria/static",
@@ -224,7 +227,6 @@
     "venv/lib/python3.12/site-packages/PIL/__pycache__/_version.cpython-312.pyc",
     "venv/lib/python3.12/site-packages/PIL/__pycache__/_util.cpython-312.pyc",
     "venv/lib/python3.12/site-packages/PIL/__pycache__/_typing.cpython-312.pyc",
-    "venv/lib/python3.12/site-packages/PIL/__pycache__/_tkinter_finder.cpython-312.pyc",
     "venv/lib/python3.12/site-packages/django/contrib/admin/static/admin/js/vendor/select2/LICENSE.md",
     "venv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/vendor/select2/LICENSE-SELECT2.md",
     "venv/lib/python3.12/site-packages/django/contrib/gis/static/gis/img/draw_polygon_on.svg",
@@ -238,12 +240,9 @@
     "venv/lib/python3.12/site-packages/django/contrib/admin/static/admin/img/sorting-icons.svg",
     "venv/lib/python3.12/site-packages/django/contrib/admin/static/admin/img/selector-icons.svg",
     "venv/lib/python3.12/site-packages/django/contrib/admin/static/admin/img/README.md",
-    "Documentacion/01. Fase de diseño/02. Evaluación de los Modelos y Pruebas de estrés.md",
-    "Documentacion/01. Fase de diseño/01. Arquitectura y Decisiones Tecnologicas.md",
     "pruebas-ia/venv/lib/python3.12/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md",
     "pruebas-ia/venv/lib/python3.12/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md",
     "pruebas-ia/venv/lib/python3.12/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
-    "Documentacion/01. Fase de diseño/03. Filosofía de despliegue, hardware y escalabilidad.md",
     "pruebas-ia/Resultado de las pruebas de estrés de las disintas ias.md"
   ]
 }
